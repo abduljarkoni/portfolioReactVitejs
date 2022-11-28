@@ -1,0 +1,8 @@
+01:08 bikin fortfolio 
+02:18
+03:06
+
+note : 
+untuk mengakalin ukuran device dekstop kita bisa kasih
+setiap pembungkusnya yang paling luar di dalam div nya dengan properti "max-w-[500px] mx-auto"
+copy ini untuk semua pagenya
